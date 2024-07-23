@@ -1,0 +1,14 @@
+{
+	"description": "<p>Scrapes:<p>* 1337x<p>* Internet Archive<p>* YTS<p>* EZTV<p>* i.mjh.nz<p>* Apsattv<p>(Uninstall vuePRO to use)",
+	"author": "F0R3V3R50F7 (M3U Parser by iprot)",
+	"homepage": "http://github.com/lprot/movian-plugin-streamian",
+	"title": "Streamian",
+	"synopsis": "One stop for TV Shows & Movies with Personal Library & Subtitle Plugin Support.",
+	"version": "2.9",
+        "file": "streamian.js",
+	"m7Version": "7.0.0",
+	"type": "ecmascript",
+	"id": "streamian",
+	"icon": "logo.png",
+	"category": "video"
+}
